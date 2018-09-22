@@ -1,0 +1,51 @@
+_repo: The-Bet-and-other-stories_55283
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Murry, John Middleton
+    aliases:
+    - Murry, J. Middleton (John Middleton)
+    - Murray, J. Middleton
+    birthdate: 1889
+    deathdate: 1957
+    gutenberg_agent_id: '5606'
+    url: http://www.gutenberg.org/2009/agents/5606
+  - agent_name: Koteliansky, S. S. (Samuel Solomonovitch)
+    aliases:
+    - Котелянский, Самуел Соломонович
+    - Koteliansky, S.S.
+    - Koteliansky, Samuel Solomonovich
+    - Koteliansky, Samuel Solomonovitch
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '4566'
+    url: http://www.gutenberg.org/2009/agents/4566
+    wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Tchekhoff, Anton
+    - Chekov, Anton Pavlovich
+    - Tshehov, Anton
+    - Чехов, Антон Павлович
+    - Tchekhov, Anton
+    - Tschechow, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2017-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Bet and other stories
+url: http://www.gutenberg.org/ebooks/55283
